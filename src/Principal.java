@@ -5,6 +5,9 @@ public class Principal {
 		
 		System.out.println("Hola chavales");
 
+		System.out.println("Hola, qtal bro"); //3=·"!$"!$!$€€€
+		
+		System.out.println("Aprobaremos Programación shavale");
 	}
 
 }
